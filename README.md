@@ -1,6 +1,7 @@
-# Markown-memento
-Voici un petit fichier memento pour vous indiquer les principales syntaxes que vous pouvez utiliser en markdown.
-Pour voir les détails de la syntaxe, cliquez que l'icone d'édition de ce fichier.
+# Mon CV
+Comme vous pouvez le constater, les modifications que vous mettez en place ici sont répercutées en temps réel dans la fenêtre de visualisation.
+
+<h2>Vous pouvez également y mettre du HTML</h2>
 
 -----------------
 
